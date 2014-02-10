@@ -1,0 +1,15 @@
+en:
+  routes:
+    # you can leave empty locales, for example the default one
+
+es:
+  routes:
+    new: nuevo
+    users: usuario
+    sign_out: cerrar
+
+de:
+  routes:
+    new: neu
+    users: benutzer
+    sign_out: abmelden
